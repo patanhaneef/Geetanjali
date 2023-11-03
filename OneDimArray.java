@@ -2,7 +2,7 @@ class OneDimArray
  {
  public static void main(String args[])
  {
- int marks[ ]={10, 30, 50, 60};
+ int marks[ ]={10, 30, 50, 60};//!1 d array declaration
  int l=marks.length; //array length
  System.out.println("Array elements are");
  for(int i=0; i<l; i++)
